@@ -1,45 +1,6 @@
-
-<h1 align="center" style="color: #87FF90; font-family: sans-serif; font-size: 14px; letter-spacing: 0.3em; overflow: hidden; white-space: nowrap;">
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards;">H</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.1s;">i</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.2s;">&nbsp;</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.3s;">👋</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.4s;">,</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.5s;">&nbsp;</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.6s;">I</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.7s;">'</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.8s;">m</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.9s;">&nbsp;</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.0s;">M</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.1s;">d</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.2s;">.</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.3s;">&nbsp;</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.4s;">J</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.5s;">a</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.6s;">b</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.7s;">i</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.8s;">r</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 1.9s;">&nbsp;</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.0s;">H</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.1s;">o</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.2s;">s</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.3s;">s</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.4s;">a</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.5s;">i</span>
-  <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.6s;">n</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=100&color=87FF90&center=true&vCenter=true&width=500&height=50&lines=Hi+👋,+I'm+Md.+Jabir+Hossain" alt="Typing animation" />
 </h1>
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: scale(0.5);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1.2);
-    }
-  }
-</style>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
