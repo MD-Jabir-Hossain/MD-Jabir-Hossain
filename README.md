@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=83F5FF&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain;A+passionate+Software+Engineer+from+Bangladesh" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=83F5FF&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain;A+passionate+Software+Engineer+from+Bangladesh" alt="Typing SVG" /></a><div/>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
