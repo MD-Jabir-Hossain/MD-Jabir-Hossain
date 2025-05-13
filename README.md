@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=100&color=87FF90&center=true&vCenter=true&width=500&height=50&lines=Hi+👋,+I'm+Md.+Jabir+Hossain" alt="Typing animation" />
-</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=83F5FF&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain;A+passionate+Software+Engineer+from+Bangladesh" alt="Typing SVG" /></a>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
