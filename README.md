@@ -1,4 +1,4 @@
-![logo](logo banner.png)
+![logo](https://github.com/MD-Jabir-Hossain/MD-Jabir-Hossain/blob/2b274bf8a45795238984118eae6e9923b6e0c51e/logo%20banner.png)
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=12FF30&center=true&vCenter=true&width=844&height=56&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain.;A+passionate+Frontend+%26+Backend+developer+from+Bangladesh." alt="Typing SVG" /></a>
 </div>
 
