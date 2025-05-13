@@ -1,15 +1,4 @@
-<style>
-    @keyframes fadeIn {
-      from {
-        opacity: 0;
-        transform: scale(0.5);
-      }
-      to {
-        opacity: 1;
-        transform: scale(1.2);
-      }
-    }
-  </style>
+
 <h1 align="center" style="color: #87FF90; font-family: sans-serif; font-size: 14px; letter-spacing: 0.3em; overflow: hidden; white-space: nowrap;">
   <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards;">H</span>
   <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 0.1s;">i</span>
@@ -38,7 +27,20 @@
   <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.4s;">a</span>
   <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.5s;">i</span>
   <span style="display: inline-block; opacity: 0; animation: fadeIn 0.5s forwards 2.6s;">n</span>
-</h1><h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+</h1>
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1.2);
+    }
+  }
+</style>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
