@@ -1,8 +1,12 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=83F5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain;A+passionate+Software+Engineer+from+Bangladesh" alt="Typing SVG" /></a><div/>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    
+font=Fira+Code&weight=900&size=24&pause=1000&color=83F5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Jabir+Hossain;A+passionate+Software+Engineer+from+Bangladesh" alt="Typing SVG" /></a>
+<div/>
 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Hello+%2C+Nice+to+Meet+You+!!%F0%9F%91%8B" alt="Typing SVG" /></a>
+## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -27,7 +31,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-
+<br><br>     
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
